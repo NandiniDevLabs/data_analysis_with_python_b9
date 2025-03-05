@@ -34,3 +34,8 @@ For Windows Machine, open Powershell in terminal and run the below commands
     ~~~
     deactivate
     ~~~
+
+
+# Additional References
+1. Fork the below repository and practice from chapter 2.
+    https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
